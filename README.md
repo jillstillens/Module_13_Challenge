@@ -1,7 +1,5 @@
 # Module_13_Challenge - Rubric
 
-## Requirements
-
 ## Prepare the Data for Use on a Neural Network Model (20 points)
 
 To receive all points, you must
